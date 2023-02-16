@@ -9,8 +9,11 @@ This project aims to identify arbitrage opportunities for Bitcoin across two exc
 The technologies required to use for this project on either Mac or PC include:
 
 Python 3.9.13
+
 Pandas library
+
 Jupyter Lab Notebook
+
 Matplotlib
 
 ---
