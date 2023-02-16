@@ -20,7 +20,9 @@ Matplotlib
 The following commands are run to start the process
 
 `import pandas as pd`
+
 `from pathlib import Path`
+
 `%matplotlib inline`
 
 ---
